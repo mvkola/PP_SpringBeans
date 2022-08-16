@@ -16,5 +16,5 @@ public class Application {
             bean.whatAnimalSay();
         }
     }
-
 }
+
